@@ -3,6 +3,6 @@ package helloworld
 class HelloController {
 
     def index() {
-        render "Hello World!"
+        render "Hello Mushroom Kingdom"
     }
 }
